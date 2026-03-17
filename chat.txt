@@ -1,3 +1,4 @@
+\follow this 
 <footer class="footer pt-5">
     <button onclick="window.scrollTo({top:0, behavior:'smooth'})"
         class="scroll-top-btn bg-blue_bg text-white p-2 shadow-lg hover:bg-blue-600" aria-label="scroll top">
